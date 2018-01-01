@@ -1,0 +1,16 @@
+com\eduit\spring\ws\Application.class
+com\eduit\spring\ws\security\TokenAuthenticationService.class
+com\eduit\spring\ws\repository\PersonaRepository.class
+com\eduit\spring\ws\security\JWTAuthenticationFilter.class
+com\eduit\spring\ws\resource\response\MessageResponse.class
+com\eduit\spring\ws\resource\PersonaResource.class
+com\eduit\spring\ws\resource\response\MessageArrayResponse.class
+com\eduit\spring\ws\service\PersonaService.class
+com\eduit\spring\ws\security\WebSecurityConfig.class
+com\eduit\spring\ws\model\Persona.class
+com\eduit\spring\ws\resource\response\Errores.class
+com\eduit\spring\ws\security\AccountCredentials.class
+com\eduit\spring\ws\resource\response\PersonaResponse.class
+com\eduit\spring\ws\security\JWTLoginFilter.class
+com\eduit\spring\ws\resource\request\PersonaRequest.class
+com\eduit\spring\ws\service\config\ServiceConfig.class
